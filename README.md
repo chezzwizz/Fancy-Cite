@@ -16,6 +16,6 @@ For the build system, CMake is currently the default choice which is currently b
 * *Current building instructions consist of creating a sub directory, moving to that sub directory, and then running CMake on `..`. Please indicate in a conversation or specification propsal if traditional make files would be preferred as part of the repository.*
 
 ## Future Features
-Copyright contact information and tracking
-Bibliographic citation validation
-DOI meta search
+* Copyright contact information and tracking
+* Bibliographic citation validation
+* DOI meta search
